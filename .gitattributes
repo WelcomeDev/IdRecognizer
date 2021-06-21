@@ -4,7 +4,7 @@
 * text=auto
 *.tcl linguist-detectable=false
 *.c linguist-detectable=false
-
+*.pyd linguist-detectable=false
 ###############################################################################
 # Set default behavior for command prompt diff.
 #
