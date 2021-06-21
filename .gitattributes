@@ -6,6 +6,7 @@
 *.c linguist-detectable=false
 *.pyd linguist-detectable=false
 *.dll linguist-detectable=false
+*.h linguist-detectable=false
 ###############################################################################
 # Set default behavior for command prompt diff.
 #
