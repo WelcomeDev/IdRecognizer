@@ -2,11 +2,8 @@
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
 * text=auto
-*.tcl linguist-detectable=false
-*.c linguist-detectable=false
-*.pyd linguist-detectable=false
-*.dll linguist-detectable=false
-*.h linguist-detectable=false
+* linguist-vendored
+*.cs linguist-vendored=false
 ###############################################################################
 # Set default behavior for command prompt diff.
 #
