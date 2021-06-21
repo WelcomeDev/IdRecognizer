@@ -51,8 +51,6 @@ public class Recognizer
 
 	private string Recognize(string path)
 	{
-#error Add necessary data sources to tessdata folder
-#error Add necessary dlls
 		var p = Path.GetFullPath(@".\tessdata\");
 		using var engine = new TesseractEngine(p, "mrz", EngineMode.Default);
 
